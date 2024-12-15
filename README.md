@@ -31,7 +31,7 @@ Other Tools: SQLite, PyInstaller
 
 📂 Featured Projects
 
-Password Manager
+SecPass (A Secure Password Manager)
 
 🔒 A secure, user-friendly tool to store and encrypt passwords with AES-256 encryption.
 
