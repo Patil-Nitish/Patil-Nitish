@@ -40,5 +40,5 @@ SecPass (A Secure Password Manager)
 
 🌐 Get in Touch
 
-📫 Email: nitishp2030@gmail.com
+📫 Email: nitishp1929@gmail.com
 💼 LinkedIn: [Nitish Patil](https://www.linkedin.com/in/nitish-patil-np09)
