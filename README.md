@@ -49,28 +49,28 @@ My mission: Building systems that don't just work—they work securely.
 🛠️ Tech Stack & Arsenal
 🦀 Systems & Security Programming
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
 🔐 Cryptography & Security
-https://img.shields.io/badge/AES--256--GCM-%F0%9F%94%92-blue?style=for-the-badge
-https://img.shields.io/badge/X25519-%F0%9F%94%91-green?style=for-the-badge
-https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%2520web%2520tokens&logoColor=white
-https://img.shields.io/badge/PBKDF2-%F0%9F%9B%A1%EF%B8%8F-orange?style=for-the-badge
+<img src="https://img.shields.io/badge/AES--256--GCM-%F0%9F%94%92-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/X25519-%F0%9F%94%91-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%2520web%2520tokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/PBKDF2-%F0%9F%9B%A1%EF%B8%8F-orange?style=for-the-badge"/>
 
 🌐 Web & Blockchain
-https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white
-https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
 ⚡ Security Tools & Platforms
-https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white
-https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
-https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge
-https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
 🎯 Featured Projects
 🔐 RustShare - Ephemeral File-Sharing Platform
