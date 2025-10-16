@@ -40,7 +40,7 @@ let me = SecurityEngineer {
     ],
 };
 
-println!("{:?}", me);```
+println!("{:?}", me);
 I'm a passionate cybersecurity professional and systems programmer who loves building secure, reliable, and performant systems. When I'm not fortifying digital defenses, you'll find me exploring new cryptographic protocols or contributing to open-source security tools.
 
 My mission: Building systems that don't just work—they work securely.
@@ -168,7 +168,7 @@ Developed secure file-sharing app with AES-256-GCM encryption
 
 📞 Let's Connect!
 <p align="center"> <a href="mailto:nitishp1929@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/nitish-patil-np09"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Patil-Nitish"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="tel:+919284434956"> <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </p><div align="center">
-
+🚀 "In Rust we trust, but we verify everything else." 🚀
 ⭐ Check out my portfolio for more secure creations!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></div> ```
