@@ -48,7 +48,7 @@ My mission: Building systems that don't just work—they work securely.
 
 🛠️ Tech Stack & Arsenal
 🦀 Systems & Security Programming
-https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black
 https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
