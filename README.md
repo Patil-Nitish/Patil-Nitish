@@ -40,7 +40,7 @@ let me = SecurityEngineer {
     ],
 };
 
-println!("{:?}", me);
+println!("{:?}", me);```
 I'm a passionate cybersecurity professional and systems programmer who loves building secure, reliable, and performant systems. When I'm not fortifying digital defenses, you'll find me exploring new cryptographic protocols or contributing to open-source security tools.
 
 My mission: Building systems that don't just work—they work securely.
