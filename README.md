@@ -177,12 +177,15 @@ function verifyAuthenticity(uint256 tokenId) public view returns (bool);
     <a href="mailto:nitishp1929@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/nitish-patil-29b291258/">
+    <a href="https://www.linkedin.com/in/nitish-patil-np09/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+     <a href="https://www.nitishpatil.co.in">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Portfolio&logoColor=white" />
     </a>
   </p>
 
-  <h3>🚀 "In Rust we trust, but we verify everything else." 🚀</h3>
+ 
   
   <p>⭐ Check out my portfolio for more secure creations! ⭐</p>
 
