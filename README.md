@@ -181,7 +181,7 @@ function verifyAuthenticity(uint256 tokenId) public view returns (bool);
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
      <a href="https://www.nitishpatil.co.in">
-      <img src="https://img.shields.io/badge/Portfolio-0069B5?style=for-the-badge&logo=Portfolio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Portfolio-28282B?style=for-the-badge&logo=Portfolio&logoColor=white" />
     </a>
   </p>
 
