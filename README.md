@@ -89,7 +89,7 @@ println!("{:#?}", me);
 // Zero-knowledge architecture - server never sees plaintext
 let encrypted_file = aes_256_gcm_encrypt(file_data, derived_key);
 ```
-**Tech:** Rust, Actix-Web, AES-256-GCM, PBKDF2 • **[View on GitHub](#)**
+**Tech:** Rust, Actix-Web, AES-256-GCM, PBKDF2 • 
 
 ### 🛡️ Krypton VPN - High-Performance P2P VPN
 *Encrypted UDP tunnels with custom protocol design and Tokio async runtime.*
@@ -97,7 +97,7 @@ let encrypted_file = aes_256_gcm_encrypt(file_data, derived_key);
 // Low-level networking with memory safety
 let tunnel = VpnTunnel::new(encryption_cipher).await?;
 ```
-**Tech:** Rust, Tokio, Custom Encryption Protocol • **[View on GitHub](#)**
+**Tech:** Rust, Tokio, Custom Encryption Protocol • 
 
 ### 💬 CrypText - Secure Chat Application
 *Real-time encrypted messaging with X25519 key exchange.*
@@ -105,7 +105,7 @@ let tunnel = VpnTunnel::new(encryption_cipher).await?;
 // End-to-end encryption guarantees
 let secure_channel = establish_secure_channel(dh_key_exchange);
 ```
-**Tech:** Rust, AES-256-GCM, X25519, Real-time Messaging • **[View on GitHub](#)**
+**Tech:** Rust, AES-256-GCM, X25519, Real-time Messaging •
 
 ### 🔍 PacketSpy - Network Analyzer
 *Real-time packet capture and deep protocol inspection.*
@@ -114,7 +114,7 @@ let secure_channel = establish_secure_channel(dh_key_exchange);
 let packet = capture_next_packet()?;
 analyze_protocol(&packet);
 ```
-**Tech:** Rust, Packet Analysis, Network Security • **[View on GitHub](#)**
+**Tech:** Rust, Packet Analysis, Network Security • 
 
 ### 🏦 ArtGuardian - NFT Marketplace
 *Blockchain-powered art authenticity with forgery prevention.*
@@ -122,7 +122,7 @@ analyze_protocol(&packet);
 // Smart contract for art verification
 function verifyAuthenticity(uint256 tokenId) public view returns (bool);
 ```
-**Tech:** Solidity, React, Web3, MetaMask • **[View on GitHub](#)**
+**Tech:** Solidity, React, Web3, MetaMask • 
 
 ---
 
