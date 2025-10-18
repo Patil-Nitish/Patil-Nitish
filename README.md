@@ -27,20 +27,23 @@ struct SecurityEngineer {
     specialties: Vec<&'static str>,
 }
 
-let me = SecurityEngineer {
-    name: "Nitish Patil",
-    title: "Secure Systems Engineer & Cybersecurity Analyst",
-    location: "Pune, India",
-    specialties: vec![
-        "Rust Systems Programming",
-        "Cryptography & Encryption",
-        "Cybersecurity & Ethical Hacking", 
-        "Blockchain & Web3 Security",
-        "Network Security & VPN Development"
-    ],
-};
+fn main() {
+    let me = SecurityEngineer {
+        name: "Nitish Patil",
+        title: "Secure Systems Engineer & Cybersecurity Analyst",
+        location: "Pune, India",
+        specialties: vec![
+            "Rust Systems Programming",
+            "Cryptography & Encryption",
+            "Cybersecurity & Ethical Hacking", 
+            "Blockchain & Web3 Security",
+            "Network Security & VPN Development"
+        ],
+    };
 
-println!("{:#?}", me);
+    println!("{:#?}", me);
+}
+
 ```
 
 ---
